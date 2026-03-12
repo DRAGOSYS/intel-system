@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+data/
+qdrant_storage/
+*.db
+*.sqlite
+logs/
+*.log
+.DS_Store
+Thumbs.db
+qdrant_data/
